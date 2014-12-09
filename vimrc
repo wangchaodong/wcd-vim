@@ -1,3 +1,5 @@
+"this is my vimrc  
+
 set showcmd
 "set laststatus
 set ruler
