@@ -1,4 +1,4 @@
 dotvim
 ======
 
-my vim plugin
+my vim vimrc
